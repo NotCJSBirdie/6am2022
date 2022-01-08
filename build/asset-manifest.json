@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.29bb50ab.css",
+    "main.js": "/static/js/main.bf0cd5cc.js",
+    "static/media/widepic.jpg": "/static/media/widepic.63fb1183cfd16bf96cd1.jpg",
+    "static/media/crystal.jpg": "/static/media/crystal.a9136ef33680a9be514a.jpg",
+    "static/media/dualc1.jpg": "/static/media/dualc1.f3fbc931d576ae6b8197.jpg",
+    "static/media/dualb1.jpg": "/static/media/dualb1.d288967736a49ec54da3.jpg",
+    "static/media/duala1.jpg": "/static/media/duala1.b0ac12afced384315458.jpg",
+    "static/media/dualb2.jpg": "/static/media/dualb2.76d1a57b0b55c1d139d0.jpg",
+    "static/media/duala2.jpg": "/static/media/duala2.d849784456383fc73912.jpg",
+    "static/media/dualc2.jpg": "/static/media/dualc2.6e33d5d1a9d7122ed741.jpg",
+    "static/media/6ambg.jpg": "/static/media/6ambg.39af7c4b9b8714f27c01.jpg",
+    "static/media/FoundersGrotesk-Regular.otf": "/static/media/FoundersGrotesk-Regular.5e8e49c30472126309a6.otf",
+    "index.html": "/index.html",
+    "main.29bb50ab.css.map": "/static/css/main.29bb50ab.css.map",
+    "main.bf0cd5cc.js.map": "/static/js/main.bf0cd5cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29bb50ab.css",
+    "static/js/main.bf0cd5cc.js"
+  ]
+}
