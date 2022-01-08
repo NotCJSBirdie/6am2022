@@ -1,24 +1,34 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import Brand from "./components/Brand";
+import Intro from "./components/Intro";
+import WidePic from "./components/WidePic";
+import Expertise from "./components/Expertise";
+import DualA from "./components/DualA";
+import Murano from "./components/Murano";
+import Crystal from "./components/Crystal";
+import Works from "./components/Works";
+import DualB from "./components/DualB";
+import Studio from "./components/Studio";
+import DualC from "./components/DualC";
+import Newsletter from "./components/Newsletter";
+import Footer from "./components/Footer";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div id="main" className="overflow-hidden">
+      <Brand />
+      <Intro />
+      <WidePic />
+      <Expertise />
+      <DualA />
+      <Murano />
+      <Crystal />
+      <Works />
+      <DualB />
+      <Studio />
+      <DualC />
+      <Newsletter />
+      <Footer />
     </div>
   );
 }

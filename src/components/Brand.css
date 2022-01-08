@@ -1,0 +1,16 @@
+#test {
+  font-family: "Founders Grotesk Regular";
+  font-size: 45vw;
+}
+
+#test2 {
+  font-family: "Founders Grotesk Regular";
+}
+
+#body {
+  background-image: url("./assets/6ambg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: 0;
+  padding: 0;
+}
